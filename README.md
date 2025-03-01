@@ -85,7 +85,7 @@ Example request for subscribing a user:
 
 ---
 
-# API de Registro de Eventos
+# API de Registro de Eventos (pt-br)
 
 Um sistema de gerenciamento de eventos construído com Spring Boot, permitindo aos usuários criar eventos e gerenciar inscrições.
 

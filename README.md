@@ -61,7 +61,7 @@ mvn spring-boot:run
 Example request for creating an event:
 ```json
 {
-  "title": "CodeCraft Summit 2027",
+  "title": "Event Name 2027",
   "location": "Online",
   "price": 0.0,
   "startDate": "2027-03-16",
@@ -148,7 +148,7 @@ mvn spring-boot:run
 Exemplo de requisição para criar um evento:
 ```json
 {
-  "title": "CodeCraft Summit 2027",
+  "title": "Nome do Evento 2027",
   "location": "Online",
   "price": 0.0,
   "startDate": "2027-03-16",
